@@ -1,0 +1,2 @@
+# nyankocounter_plivacy
+にゃんこカウンターアプリのプライバシーポリシー
